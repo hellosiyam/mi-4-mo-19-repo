@@ -12,7 +12,7 @@ else{
 
 let or=" white "
 let roll="white"
-if(or.trim === roll.trim ) {
+if(or.trim() === roll.trim() ) {
     console.log("I read in class VI");
     
 }
